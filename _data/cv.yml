@@ -1,0 +1,133 @@
+cv:
+  name: Elena Karagianni
+  label: PhD Candidate, Political Science
+  email: karagiae@tcd.ie
+  location: Dublin, Ireland
+  image: ""
+  summary: PhD candidate at Trinity College Dublin working on blame attribution, crisis politics, and computational text analysis.
+
+  social_networks:
+    - network: Email
+      username: karagiae@tcd.ie
+
+  address:
+    city: Dublin
+    countryCode: IE
+
+  sections:
+    Education:
+      - institution: Trinity College Dublin
+        location: Dublin, Ireland
+        url: https://www.tcd.ie/political-science/
+        area: Political Science
+        studyType: PhD Candidate
+        start_date: 2024
+        end_date: present
+
+      - institution: University of Mannheim
+        location: Mannheim, Germany
+        area: Political Science
+        studyType: MA
+        start_date: 2022
+        end_date: 2024
+        highlights:
+          - DAAD "Master for All Academic Disciplines" scholarship
+          - GPA 1.5 (Bavarian formula)
+
+      - institution: CDSS – Graduate School of Economic and Social Sciences (GESS)
+        location: Mannheim, Germany
+        area: Political Science
+        studyType: Associate Membership
+        start_date: 2023
+        end_date: 2024
+        highlights:
+          - "Courses: Research Design, Current Research Perspectives, English Academic Writing"
+
+      - institution: Aristotle University of Thessaloniki
+        location: Thessaloniki, Greece
+        area: Political Science
+        studyType: BA
+        end_date: 2022
+        highlights:
+          - GPA 9.01 / 10
+
+    Experience:
+      - company: Trinity College Dublin
+        position: Teaching Assistant, Department of Political Science
+        location: Dublin, Ireland
+        start_date: 2024
+        end_date: present
+        highlights:
+          - "POU33041: Political Institutions of the USA (undergraduate)"
+          - "POU33012: Research Methods for Political Science B (undergraduate)"
+          - "POP77003: Applied Statistical Analysis I (postgraduate)"
+          - "POP88162: Introduction to Quantitative Research Methods (postgraduate)"
+
+      - company: Trinity College Dublin
+        position: Coding Camp Instructor, Incoming M.Sc. Students
+        location: Dublin, Ireland
+        start_date: 2025
+        end_date: 2026
+        summary: "Applied Social Data Science (M.Sc.) — one-week intensive coding camp, taught at the start of each academic year."
+
+      - company: GESIS – Leibniz Institute for the Social Sciences
+        position: Student Assistant, Comparative Study of Electoral Systems (CSES)
+        location: Mannheim, Germany
+        start_date: 2023-03-01
+        end_date: 2024-07-01
+
+      - company: Research Center "To the Point"
+        position: Intern
+        location: Thessaloniki, Greece
+        start_date: 2022-03-01
+        end_date: 2022-05-01
+        summary: Survey design and data analysis; built online surveys with LimeSurvey.
+
+      - company: Aristotle University of Thessaloniki
+        position: Student Assistant
+        location: Thessaloniki, Greece
+        start_date: 2021-12-01
+        end_date: 2022-06-01
+        summary: Organized academic events and workshops on Greek and transatlantic politics, and an annual international film festival with partner embassies.
+
+      - company: Aristotle University of Thessaloniki
+        position: Student Assistant, ProConEu Project (Working Group 3, Electoral Behavior and Electoral Results)
+        location: Thessaloniki, Greece
+        start_date: 2021-12-01
+        end_date: 2022-06-01
+
+    Skills:
+      - name: R & RStudio
+        level: ""
+        keywords: "Computational text analysis, quantitative methods"
+
+      - name: Python
+        level: ""
+
+      - name: STATA
+        level: ""
+
+      - name: LaTeX
+        level: ""
+
+    Languages:
+      - name: Greek
+        summary: "Native"
+
+      - name: English
+        summary: "Fluent — IELTS Academic 8.0"
+
+      - name: French
+        summary: "DELF B2"
+
+      - name: German
+        summary: "Goethe-Zertifikat B2"
+
+    Certificates:
+      - name: Introduction to Computational Text Analysis with R
+        date: 2024-03-01
+        issuer: GESIS – Leibniz Institute for the Social Sciences
+
+      - name: Introduction to STATA
+        date: 2024-03-01
+        issuer: GESIS – Leibniz Institute for the Social Sciences
