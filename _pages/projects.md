@@ -2,7 +2,6 @@
 layout: page
 title: Research
 permalink: /research/
-description: Working papers and work in progress on blame attribution, crisis politics, and the far right.
 nav: true
 nav_order: 3
 ---
@@ -27,14 +26,16 @@ nav_order: 3
 <h2 class="paper-section">Working papers</h2>
 
 <article class="paper">
-  <h3 class="paper-title">Local Moves, Big Gains? Examining the Party Activity Strategies of the Far-Right</h3>
-  <p class="paper-meta"><span class="paper-tag">Working paper</span> <span class="paper-authors">with Constantine Boussalis and Lamprini Rori (2025)</span></p>
+  <h3 class="paper-title">Substituting for the State? Municipal Welfare Provision and Far-Right Social Activism</h3>
+  <p class="paper-meta"><span class="paper-tag">Working paper</span></p>
+  <p class="paper-authors">with Constantine Boussalis and Lamprini Rori (2026)</p>
   <p class="paper-summary">Abstract available upon request.</p>
 </article>
 
 <article class="paper">
-  <h3 class="paper-title">Substituting for the State? Municipal Welfare Provision and Far-Right Social Activism</h3>
-  <p class="paper-meta"><span class="paper-tag">Working paper</span> <span class="paper-authors">with Constantine Boussalis and Lamprini Rori (2026)</span></p>
+  <h3 class="paper-title">Local Moves, Big Gains? Examining the Party Activity Strategies of the Far-Right</h3>
+  <p class="paper-meta"><span class="paper-tag">Working paper</span></p>
+  <p class="paper-authors">with Constantine Boussalis and Lamprini Rori (2025)</p>
   <p class="paper-summary">Abstract available upon request.</p>
 </article>
 
@@ -44,7 +45,7 @@ nav_order: 3
 .paper-list { margin-top: 1.5rem; }
 .paper { padding: 1.4rem 0; border-top: 1px solid rgba(128,128,128,0.25); }
 .paper-section + .paper { border-top: none; padding-top: 0; }
-.paper-title { font-size: 1.15rem; line-height: 1.4; margin: 0 0 0.5rem; }
+.paper-title { font-size: 1.2rem; line-height: 1.4; margin: 0 0 0.5rem; }
 .paper-meta { margin: 0 0 0.6rem; font-size: 0.9rem; opacity: 0.85; }
 .paper-tag {
   display: inline-block;
@@ -55,9 +56,10 @@ nav_order: 3
   font-size: 0.78rem;
   color: var(--global-theme-color);
 }
-.paper-section { font-size: 1.3rem; margin: 2rem 0 0.8rem; }
+.paper-section { font-size: 0.85rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.12em; opacity: 0.7; margin: 2.2rem 0 0.8rem; }
 .paper-section:first-child { margin-top: 0; }
 .paper-tag-solid { background: var(--global-theme-color); color: var(--global-bg-color); }
+.paper-authors { margin: 0 0 0.6rem; font-size: 0.95rem; opacity: 0.85; }
 .paper-presented { margin: 0.5rem 0 0; font-size: 0.88rem; font-style: italic; opacity: 0.65; }
 .paper-summary { margin: 0; opacity: 0.85; }
 </style>
