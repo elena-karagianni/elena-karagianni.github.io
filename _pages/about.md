@@ -30,11 +30,12 @@ I am a PhD candidate in Political Science at Trinity College Dublin. My research
 
 ## Research interests
 
-- Blame attribution and crisis politics
-- Natural disasters and electoral accountability
-- Comparative politics and political parties
-- The far right: party strategies and social activism
-- Computational text analysis and large language models
+- 💻 Computational methods
+- 📊 Causal inference & quasi-experimental design
+- 🫵 Attribution theory & blame in politics
+- 🇬🇷 Greek politics
+- 📣 Political communication
+- 🌍 Environmental politics
 
 Before Dublin, I completed an MA in Political Science at the University of Mannheim (DAAD scholar) and a BA in Political Science at the Aristotle University of Thessaloniki. I have also worked as a research assistant on the Comparative Study of Electoral Systems (CSES) at GESIS – Leibniz Institute for the Social Sciences, and I currently teach as a graduate teaching assistant in quantitative methods and American politics at Trinity.
 
