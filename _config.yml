@@ -10,9 +10,7 @@ contact_note: >
   The fastest way to reach me is by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD Candidate in Political Science at Trinity College Dublin. Research on blame attribution, crisis politics, and computational text analysis.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+footer_text: ""
 keywords: political science, blame attribution, disaster politics, computational text analysis, comparative politics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🏛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -96,7 +94,7 @@ al_folio:
 
 navbar_fixed: true
 footer_fixed: false
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true

@@ -6,6 +6,8 @@ nav: true
 nav_order: 3
 ---
 
+{% include typography.html %}
+
 <div class="paper-list">
 
 <h2 class="paper-section">Dissertation chapters</h2>

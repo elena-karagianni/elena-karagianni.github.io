@@ -2,7 +2,6 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Teaching assistant experience, Department of Political Science, Trinity College Dublin.
 nav: true
 nav_order: 6
 ---
@@ -51,6 +50,7 @@ nav_order: 6
 
 </div>
 
+{% include typography.html %}
 <style>
 .teaching-list { margin-top: 1.5rem; }
 .teaching-entry {
