@@ -13,7 +13,7 @@ nav_order: 6
   <div class="teaching-code">POU33041</div>
   <div class="teaching-body">
     <h3>Political Institutions of the USA</h3>
-    <p>Undergraduate · Teaching Assistant</p>
+    <p>Undergraduate</p>
   </div>
 </div>
 
@@ -21,7 +21,7 @@ nav_order: 6
   <div class="teaching-code">POU33012</div>
   <div class="teaching-body">
     <h3>Research Methods for Political Science B</h3>
-    <p>Undergraduate · Teaching Assistant</p>
+    <p>Undergraduate</p>
   </div>
 </div>
 
@@ -29,7 +29,7 @@ nav_order: 6
   <div class="teaching-code">POP77003</div>
   <div class="teaching-body">
     <h3>Applied Statistical Analysis I</h3>
-    <p>Postgraduate · Teaching Assistant</p>
+    <p>Postgraduate</p>
   </div>
 </div>
 
@@ -37,14 +37,14 @@ nav_order: 6
   <div class="teaching-code">POP88162</div>
   <div class="teaching-body">
     <h3>Introduction to Quantitative Research Methods</h3>
-    <p>Postgraduate · Teaching Assistant</p>
+    <p>Postgraduate</p>
   </div>
 </div>
 
 <div class="teaching-entry">
   <div class="teaching-code">2025 &amp; 2026</div>
   <div class="teaching-body">
-    <h3>Coding Camp Instructor, Incoming M.Sc. Students</h3>
+    <h3>Coding Camp for incoming M.Sc. students</h3>
     <p>Applied Social Data Science · One-week intensive coding camp, taught at the start of each academic year</p>
   </div>
 </div>
