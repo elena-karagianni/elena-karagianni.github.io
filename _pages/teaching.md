@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Teaching assistant experience, Department of Political Science, Trinity College Dublin.
 nav: true
 nav_order: 6

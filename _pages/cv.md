@@ -1,12 +1,15 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/Karagianni_CV.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: Education, teaching, and research experience.
-toc:
-  sidebar: left
+toc: false
 ---
+
+<p style="text-align: center;">
+  You can download my CV
+  <a href="{{ '/assets/pdf/Karagianni_CV.pdf' | relative_url }}" download style="font-weight: bold;">here</a>.
+</p>
+
+<iframe src="{{ '/assets/pdf/Karagianni_CV.pdf' | relative_url }}" width="100%" height="900px" style="border: none;"></iframe>

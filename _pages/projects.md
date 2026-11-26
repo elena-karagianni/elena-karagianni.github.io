@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 description: Dissertation chapters and working papers on blame attribution and crisis politics.
 nav: true

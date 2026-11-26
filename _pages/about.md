@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Candidate, Department of Political Science, Trinity College Dublin
 
@@ -22,7 +22,19 @@ latest_posts:
   enabled: false # no blog posts yet
 ---
 
-I am a PhD candidate in Political Science at Trinity College Dublin. I study how political actors attribute blame for natural disasters and other crises, and whether the strategy they choose — externalizing blame, claiming credit, or accepting responsibility — shapes electoral outcomes. My dissertation combines comparative politics with large-scale, LLM-based analysis of parliamentary speech across several countries.
+<style>
+  .post-title .font-weight-bold { font-weight: inherit; }
+</style>
+
+I am a PhD candidate in Political Science at Trinity College Dublin. My research asks who gets blamed when a crisis hits, and what politicians do about it. I study how governments and opposition parties attribute responsibility for natural disasters and other crises, and whether the strategies they choose, such as shifting blame, claiming credit, or accepting responsibility, shape electoral outcomes. To answer these questions I combine comparative research designs with large language models that classify parliamentary speech across countries.
+
+## Research interests
+
+- Blame attribution and crisis politics
+- Natural disasters and electoral accountability
+- Comparative politics and political parties
+- The far right: party strategies and social activism
+- Computational text analysis and large language models
 
 Before Dublin, I completed an MA in Political Science at the University of Mannheim (DAAD scholar) and a BA in Political Science at the Aristotle University of Thessaloniki. I have also worked as a research assistant on the Comparative Study of Electoral Systems (CSES) at GESIS – Leibniz Institute for the Social Sciences, and I currently teach as a graduate teaching assistant in quantitative methods and American politics at Trinity.
 
