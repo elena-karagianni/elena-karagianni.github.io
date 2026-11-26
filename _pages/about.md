@@ -26,6 +26,7 @@ latest_posts:
 <style>
   .post-title .font-weight-bold { font-weight: inherit; }
   .profile .more-info, .profile .more-info p { font-family: inherit; display: block; margin: 0 0 0.25rem; }
+  .post article h3 { font-family: "Source Serif 4", Georgia, serif; font-weight: 500; }
   .profile .more-info { font-size: 0.95rem; }
   @media (min-width: 768px) { .profile.float-right { margin-top: -4.5rem; } }
 </style>
