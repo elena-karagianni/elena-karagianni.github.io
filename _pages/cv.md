@@ -7,7 +7,6 @@ nav_order: 5
 toc: false
 ---
 
-{% include typography.html %}
 
 <p style="text-align: center;">
   You can download my CV

@@ -6,7 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-{% include typography.html %}
 
 <div class="paper-list">
 

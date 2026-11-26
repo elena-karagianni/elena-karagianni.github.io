@@ -50,7 +50,6 @@ nav_order: 6
 
 </div>
 
-{% include typography.html %}
 <style>
 .teaching-list { margin-top: 1.5rem; }
 .teaching-entry {

@@ -22,11 +22,10 @@ latest_posts:
   enabled: false # no blog posts yet
 ---
 
-{% include typography.html %}
 <style>
   .post-title .font-weight-bold { font-weight: inherit; }
+  .post-header .desc { font-style: italic; }
   .profile .more-info, .profile .more-info p { font-family: inherit; display: block; margin: 0 0 0.25rem; }
-  .post article h3 { font-family: "Source Serif 4", Georgia, serif; font-weight: 500; }
   .profile .more-info { font-size: 0.95rem; }
   @media (min-width: 768px) { .profile.float-right { margin-top: -4.5rem; } }
 </style>
